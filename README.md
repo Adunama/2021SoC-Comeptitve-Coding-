@@ -4,6 +4,7 @@ I have covered all the topics being taught in the weekly sessions, and have lear
 2) Dynamic Programming : Using memoisation to efficiently solve recursion of type F(n)=f(F(n-1)).
 3) Sorting and Searching : Using binary search on sorted lists to improve efficiency of a program/
 4) Graphs : DFS, BFS, basics on trees.
+
 Usernames on Codeforces and CSES, where I have solved the assignment problems:
 Codeforces: Adunama
 CSES: Adunama
